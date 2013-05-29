@@ -1,7 +1,7 @@
 Field
 =====
 
-An audiovisual PureData library used in "Playing the Field" installation by Nicholas Houde and myself. Exhibiting at [Staycation Museum](http://www.staycationmuseum.com) in Berlin, during the [48-Stunden-Neukölln](http://www.48-stunden-neukoelln.de/2013/), June 14-16.
+An audiovisual PureData library used in "Playing the Field" installation by [Nicholas Houde](https://soundcloud.com/sftstps) and myself. Exhibiting at [Staycation Museum](http://www.staycationmuseum.com) in Berlin, during the [48-Stunden-Neukölln](http://www.48-stunden-neukoelln.de/2013/), June 14-16.
 
 The file "field.pd" can be run on a current version of [PureData (extended)](http://puredata.info/downloads/pd-extended).
 
